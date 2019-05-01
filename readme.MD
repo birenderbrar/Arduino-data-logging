@@ -18,3 +18,5 @@ Logging arduino's sensor data to wireless server can be tedious task, However I 
 * You have to download fritzing software, in order to check the circuit connections. 
 * You can replace Bluetooth module with wifi or radio module for the commnucation between two arduino as using wifi and radio you can better range, if your application requires better range. 
 * The main intention behind this project was to find a reliable way to log arduino data on wirless server. 
+
+:copyright:Birender Veeer Singh
