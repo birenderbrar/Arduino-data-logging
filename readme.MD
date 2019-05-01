@@ -1,4 +1,4 @@
-#Arduino wireless distance data logger 
+# Arduino wireless distance data logger 
 Logging arduino's sensor data to wireless server can be tedious task, However I found an simple way to do so. This method can be usefull in all sort of sensor data logging by perfromeing minor changes. 
 * Three HCSR04 scnsors have been used in the direction of front, left and right of an wooden base. 
 * we send the reading of these sensors to other arduino in each void loop, via bluetooth using [HC-05 Module](https://components101.com/wireless/hc-05-bluetooth-module)
